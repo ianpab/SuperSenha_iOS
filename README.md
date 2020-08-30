@@ -1,4 +1,4 @@
-# SuperSenha_iOS
+# Super Senha
 
 # Sobre
 
